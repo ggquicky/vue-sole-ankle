@@ -1,6 +1,4 @@
-<script setup lang="ts">
-import Search from "../assets/search.svg";
-</script>
+<script setup lang="ts"></script>
 
 <template>
   <div
